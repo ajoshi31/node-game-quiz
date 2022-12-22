@@ -37,7 +37,7 @@
     "gulp-notify": "^3.2.0",
     "helmet": "^3.13.0",
     "install": "^0.12.1",
-    "jsonwebtoken": "^8.3.0",
+    "jsonwebtoken": "^9.0.0",
     "mongoose": "^5.2.5",
     "morgan": "^1.9.0",
     "node-fetch": "^2.2.0",
